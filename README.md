@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **AI-ML-DL-AR-VR, Flutter**
 
-- 🤝 I’m looking for help with **Blockchain based SDSM - Software Defined Security Mechanism**
+- 🤝 I’m looking for help with **Blockchain based SDSM - Software Defined Security Mechanism for IoT systems under 5g technology**
 
-- 💬 Ask me about **Web development, WordPress, JavaScript etc**
+- 💬 Ask me about **Deep Learning and AI, XR-AR-VR etc., Web development, WordPress, JavaScript etc.**
 
 - 📫 How to reach me **ftsabit@gmail.com**
 
