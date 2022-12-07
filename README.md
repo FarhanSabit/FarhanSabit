@@ -3,8 +3,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **AI-ML-DL-AR-VR, Blockchain, Flutter, react**
 
-- 🤝 I’m looking for help with **Blockchain based SDSM - Software Defined Security Mechanism for IoT systems under 5g technology**
-- **Blockchain based SDSM - Software Defined Security Mechanism for IoT systems under 5g technology**
+- 🤝 I’m looking for help with **1. Blockchain based SDSM - Software Defined Security Mechanism for IoT systems under 5g technology**
+**2. Location based services to develop mobile applications (GPS)**
 
 - 💬 Ask me about **Deep Learning and AI, XR-AR-VR etc., Web development, WordPress, JavaScript etc.**
 
