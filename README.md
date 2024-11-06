@@ -1,5 +1,5 @@
 ![👋 Hi, I am Farhan Tahmid Sabit](https://as2.ftcdn.net/v2/jpg/05/67/40/31/1000_F_567403147_WjV5fqGRjjPUkBOnXaaREKgVjZMC12M7.jpg)
-<h3 align="center">Software Engineer | Web | AR-VR | AI-ML</h3>
+<h1 align="center">Software Engineer | Web | AR-VR | AI-ML</h1>
 
 <div id="toc">
   <ul align="center" style="list-style: none">
