@@ -1,4 +1,4 @@
-![👋 Hi, I am Farhan Tahmid Sabit](https://as2.ftcdn.net/v2/jpg/05/67/40/31/1000_F_567403147_WjV5fqGRjjPUkBOnXaaREKgVjZMC12M7.jpg)
+![👋 Hi, I am Farhan Tahmid Sabit](https://github.com/FarhanSabit/FarhanSabit/blob/main/git%20pic%20pro.png?raw=true)
 <h1 align="center">Software Engineer | Web | AR-VR | AI-ML</h1>
 
 <div id="toc">
